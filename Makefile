@@ -1,2 +1,4 @@
-make:
-      awk -f scriptrun.awk exams.csv
+filter:
+	awk -f scriptrun.awk exams.csv
+
+  
