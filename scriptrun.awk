@@ -1,3 +1,3 @@
 BEGIN { }
 {}
-END{system("sh mathresult.sh")}
+END{system("bash mathresult.sh")}
